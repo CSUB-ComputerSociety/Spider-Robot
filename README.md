@@ -13,9 +13,9 @@ For this project, the components and design were built to the best of our capabi
 ## Folders
 - __Scripts Folder__
   -This folder includes scripts that were designed to follow for the spider used and developed for the workshop. The SCRIPTS.md file contains in in-depth explanation on what each script does, and how you can improve or better this script. Let us know on any improvements!
-- __Design Folder__
+- __Build Folder__
   -This folder contains the stl files use to develop the final spider version used for the event. The DESIGN.md file explains more on the design and development of the cad models and what dimensions were used.
-- __Electrical Components Folder__
+- __Components Folder__
   -For this project, we wanted this spider to be beginner friendly and something that anyone can build. We have outlined the entire process of the build, why we chose certain components and overall thoughts. All updates will be made throughout the process.
 
 ## Installation
