@@ -15,5 +15,8 @@ and 0 is the right of 90 degrees for servo channels 0-3. Make sure you know whic
 you can visualize what it is supposed to do.
 
 ## Forward Instructions
-To move your spider forward. 
+The primary attempt of this script is by moving diagonal legs one at a time and slowly pushing the robot forward with the joints. This script is in progress because there are still some issues. Essentially the thought process was that we would move the right leg up to 0 degrees and then swing the joint forward, and then place the foot down. We would take that same logic and apply it to all of the legs, first doing the diagonal of the leg and then moving to the next, like in an x form. Once all of the legs have moved, then we would push all of the joints simultaneously to the back. Once that generic movement is down, a while loop is in place. Any suggestions for improvement or different approaches highly recommended.
+
+## Rising Instructions
+The script for this one is very similar to the Stance, but the robot moves from 0 degrees and rises up to 90. Because of the load of the electrical components, we noticed that have the robot go to 70 degrees instead was a better option.
 
