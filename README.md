@@ -20,6 +20,6 @@ For this project, the components and design were built to the best of our capabi
 
 ## Installation
 ```bash
-git clone https://github.com/CSUB-ComputerSociety/Spider-Robot
+git clone https://github.com/CSUB-ComputerSociety/Spider-Robot.git
 cd Spider-Robot
 ```
